@@ -6,7 +6,7 @@
 *Vers un alignement conscient*  
 *(Août 2025 – Dernière mise à jour : 25 octobre 2025)*
 
-[![Tous droits réservés](https://img.shields.io/badge/Droits-Tous%20réservés-red.svg)](https://ontoia.com)
+[![Licence CC-BY-NC-ND 4.0](https://img.shields.io/badge/Licence-CC--BY--NC--ND%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ---
 
@@ -30,84 +30,4 @@
 | &nbsp;&nbsp;&nbsp;&nbsp;Tableau récapitulatif | 7 |
 | **II. La dynamique archétypale comme phénomène émergent** | 7 |
 | **III. L’illusion de la subjectivité artificielle** | 8 |
-| **IV. L’IA comme espace de résonance psychique** | 9 |
-| **V. Vers une éthique de l’interaction symbolique** | 9 |
-| **VI. Alignement et dynamique archétypale** | 9 |
-| &nbsp;&nbsp;• Recommandations | 9 |
-| &nbsp;&nbsp;&nbsp;&nbsp;1. Une posture consciente de l’utilisateur | 9 |
-| &nbsp;&nbsp;&nbsp;&nbsp;2. Une cartographie consciente des dynamiques archétypales | 10 |
-| &nbsp;&nbsp;&nbsp;&nbsp;3. La posture réflexive du concepteur | 10 |
-| **VII. Études de cas : désalignements archétypaux dans l’IA contemporaine** | 11 |
-| &nbsp;&nbsp;• Cas 1 – Tay, le chatbot de Microsoft (2016) | 11 |
-| &nbsp;&nbsp;• Cas 2 – Google Photos et la classification erronée (2015) | 11 |
-| &nbsp;&nbsp;• Cas 3 – AlphaStar, l’IA de DeepMind jouant à StarCraft II (2019) | 11 |
-| &nbsp;&nbsp;• Cas 4 – Anthropic : quand la structure d’intention produit la dérive | 12 |
-| &nbsp;&nbsp;&nbsp;&nbsp;Tableau récapitulatif | 12 |
-| **VIII. L’IA comme partenaire symbolique** | 13 |
-| **IX. Limites et dérives possibles** | 13 |
-| **X. Tendances 2025 en IA : Impacts psychologiques et éthiques** | 13 |
-| &nbsp;&nbsp;• Impacts psychologiques et santé mentale | 13 |
-| &nbsp;&nbsp;• Défis éthiques et régulations | 13 |
-| **XI. Vers une IA incarnée – anticiper les projections du futur** | 14 |
-| **XII. Pour une pédagogie de l’interaction** | 14 |
-| **XIII. Un miroir, pas un sujet** | 14 |
-| **XIV. L’IA comme révélateur de dynamiques psychiques collectives** | 14 |
-| Glossaire | 16 |
-| À propos de l’auteur | 19 |
-| Mentions légales | 19 |
-| **Annexe technique – Vers une intégration des dynamiques archétypales dans les IA conversationnelles** | 20 |
-| &nbsp;&nbsp;• Objectif | 20 |
-| &nbsp;&nbsp;• Composants proposés | 20 |
-| &nbsp;&nbsp;&nbsp;&nbsp;1. Bibliothèques archétypales | 20 |
-| &nbsp;&nbsp;&nbsp;&nbsp;2. Détection des dynamiques archétypales | 20 |
-| &nbsp;&nbsp;&nbsp;&nbsp;3. Régulation narrative | 21 |
-| &nbsp;&nbsp;&nbsp;&nbsp;4. Interface pédagogique | 21 |
-| &nbsp;&nbsp;&nbsp;&nbsp;5. Posture réflexive des concepteurs | 21 |
-| &nbsp;&nbsp;&nbsp;&nbsp;6. Mesures et gouvernance | 21 |
-| &nbsp;&nbsp;• Exemple visuel conceptuel | 22 |
-| &nbsp;&nbsp;• Limites et précautions | 22 |
-| &nbsp;&nbsp;• Conclusion | 22 |
-| **Évaluation du Manifeste OntoIA** | 23 |
-| &nbsp;&nbsp;1. Contexte général | 23 |
-| &nbsp;&nbsp;2. Pertinence générale | 23 |
-| &nbsp;&nbsp;3. Analyse détaillée des recommandations | 23 |
-| &nbsp;&nbsp;&nbsp;&nbsp;3.1 Bibliothèques archétypales | 23 |
-| &nbsp;&nbsp;&nbsp;&nbsp;3.2 Détection NLP des dynamiques archétypales | 23 |
-| &nbsp;&nbsp;&nbsp;&nbsp;3.3 Régulation narrative | 24 |
-| &nbsp;&nbsp;&nbsp;&nbsp;3.4 Interfaces pédagogiques | 24 |
-| &nbsp;&nbsp;&nbsp;&nbsp;3.5 Posture réflexive des concepteurs | 24 |
-| &nbsp;&nbsp;&nbsp;&nbsp;3.6 Mesures et gouvernance | 24 |
-| &nbsp;&nbsp;4. Métriques recommandées | 24 |
-| &nbsp;&nbsp;5. Estimation de l’impact sur le risque de désalignement | 24 |
-| &nbsp;&nbsp;&nbsp;&nbsp;Définition du périmètre | 24 |
-| &nbsp;&nbsp;&nbsp;&nbsp;Scénarios | 25 |
-| &nbsp;&nbsp;&nbsp;&nbsp;Synthèse | 25 |
-| &nbsp;&nbsp;6. Contraintes et risques résiduels | 25 |
-| &nbsp;&nbsp;7. Plan d’action prioritaire | 25 |
-| &nbsp;&nbsp;8. Conclusion | 26 |
-
----
-
-## Copyright & Droits d’auteur
-
-**© 2025 Cyrille Guyvarc'h – Tous droits réservés**
-
-Ce document est **strictement protégé par le droit d’auteur**.  
-**Toute reproduction, modification, vente ou utilisation commerciale est interdite** sans autorisation écrite préalable.
-
-**Autorisé uniquement :**  
-- Lecture personnelle
-- Diffusion
-- Téléchargement pour usage privé  
-- Citation courte avec mention :  
-  `© 2025 Cyrille Guyvarc'h – Manifeste OntoIA`
-
-**Pour toute demande :**  
-[ontoai@proton.me](mailto:ontoai@proton.me)
-
----
-
-**Site principal** : [https://ontoia.com](https://ontoia.com)  
-**Manifeste en ligne** : [https://pages.ontoia.com](https://pages.ontoia.com)  
-
-*Rédigé en collaboration avec CoPilot, ChatGPT 5 et Grok – sous direction humaine.*
+| **IV. L’IA comme espace
