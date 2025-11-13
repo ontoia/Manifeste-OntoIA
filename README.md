@@ -67,7 +67,7 @@
 | &nbsp;&nbsp;• Exemple visuel conceptuel | 22 |
 | &nbsp;&nbsp;• Limites et précautions | 22 |
 | &nbsp;&nbsp;• Conclusion | 22 |
-| Évaluation du Manifeste OntoIA | 23 |
+| **Évaluation du Manifeste OntoIA** | 23 |
 | &nbsp;&nbsp;1. Contexte général | 23 |
 | &nbsp;&nbsp;2. Pertinence générale | 23 |
 | &nbsp;&nbsp;3. Analyse détaillée des recommandations | 23 |
