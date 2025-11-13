@@ -5,8 +5,9 @@ authors:
   - family-names: "Guyvarc'h"
     given-names: "Cyrille"
 date-released: 2025-10-25
+version: "1.0"
 url: "https://pages.ontoia.com"
-license: "Copyright"
+license: "CC-BY-NC-ND-4.0"
 keywords:
   - intelligence artificielle
   - psychologie jungienne
